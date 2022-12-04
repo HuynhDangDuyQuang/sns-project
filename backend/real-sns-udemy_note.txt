@@ -1,0 +1,30 @@
+■install
+node -v
+npm -v
+npx -v
+npm install -g yarn
+
+npm init
+{
+    entry point: server.js
+    license: ISC
+}
+npm i express mongoose nodemon helmet
+npm i dotenv
+
+
+
+■Start sever
+npm run dev
+
+■DB
+https://cloud.mongodb.com/v2/62dd55002a44cc3a896adb30#clusters/connect?clusterId=Cluster0
+mongodb+srv://hddquang19:<password>@cluster0.1qgf7.mongodb.net/<databaseName>?retryWrites=true&w=majority
+
+■mongoose doc:
+https://mongoosejs.com/docs/guide.html
+
+■make sure to have "nodemon server.js" instead of node server.js
+
+
+■/:id → /7h6gte549yge7tyb9 : id

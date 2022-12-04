@@ -1,0 +1,22 @@
+■install react:
+npx create-react-app real-sns-frontend
+
+■start server:
+npm start
+
+■install material UI
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+
+■boxshadow
+https://hiroyuki-n.github.io/boxShadow_generator/
+
+■install react-router-dom
+npm i react-router-dom
+
+■ install axios
+npm i axios
+
+■ install timeago
+D:\real-sns\frontend\node_modules\timeago.js\src\lang\en_US.ts
